@@ -6,6 +6,7 @@
     If true, the workflow will fail if there are any regression results.
 #>
 
+# test comment
 param (
     [Parameter(Mandatory = $false)]
     [string]$BlockOnFailure = "false"
